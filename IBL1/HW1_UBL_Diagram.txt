@@ -1,0 +1,12 @@
+Clippy 
+-------------------------------
+userString: String
+-------------------------------
+writeDocument(scnr) : String
+clippyMenu(scnr, userString) : void
+numNonwhitespaceChar(userString): int
+numAllChar(userString) : int
+numWords(userString) : int
+findText(userString, findString): boolean
+replaceText(userString, findString, replaceString) : String
+quit(scnr) : boolean

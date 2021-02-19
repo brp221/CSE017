@@ -1,0 +1,9 @@
+Name of   |Worst Case  |Best Case   | Wall Clock | Wall Clock| Wall Clock|
+Sort      |Theoretical |Theoretical |Descending  | Ascending | Random    |
+----------------------------------------------------------------------------
+Bubble    |   O(n^2)   |    O(n)    |     22     |    14     |     32    |
+Heap      | O(n log(n))| O(n log(n))|     23     |    15     |     33    |
+Insertion |    O(n^2)  |    O(n)    |     23     |    16     |     33    |
+Merge     | O(nlog(n)) |  O(nlog(n))|     24     |    17     |     34    |
+Quick     |   O(n^2)   |O(n log(n)) |     91     |    33     |     75    |
+Selection |   O(n^2)   |   O(n^2)   |     102    |    44     |     85    |
